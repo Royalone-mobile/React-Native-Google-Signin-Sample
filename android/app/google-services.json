@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "157098791642",
+    "firebase_url": "https://perfect-science-210816.firebaseio.com",
+    "project_id": "perfect-science-210816",
+    "storage_bucket": "perfect-science-210816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157098791642:android:920c7769a3f63cd3",
+        "android_client_info": {
+          "package_name": "com.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157098791642-bc4114n2fausqmbdmklpeavdjsmceo6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.googlesignin",
+            "certificate_hash": "8557f6630e81a72208945ae73449369b68ea8358"
+          }
+        },
+        {
+          "client_id": "157098791642-8b1t68u67prf2k2oja0r37ooshag8sq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9sz2lOAfzJrgPWnFspbGEgTvXxLRVyZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157098791642-8b1t68u67prf2k2oja0r37ooshag8sq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
